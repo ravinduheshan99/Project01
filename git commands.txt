@@ -1,0 +1,27 @@
+git init
+
+git add --all
+
+git status
+
+git commit -m "First commit"
+
+git push -u origin main //only using when doing then first push
+
+git add a.html
+
+git add --all
+
+git commit -m "Second commit updates as hello world"
+
+git push
+
+git pull
+
+git branches
+
+git branch branch1
+
+git switch branch1
+
+git merge branch1
